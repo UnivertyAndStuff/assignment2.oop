@@ -6,7 +6,7 @@ package assignment2.oop;
 
 /**
  *
- * @author user
+ * @author User
  */
 public class serviceItem {
     

@@ -6,7 +6,7 @@ package assignment2.oop;
 
 /**
  *
- * @author user
+ * @author User
  */
 public class item {
     private String name;
@@ -39,12 +39,10 @@ public class item {
         this.availability = availability;
     }
     
-    public String Foods(){
+    public class Foods(){
     }
-    public String Merchandise(){
+    public class Merchandise(){
     }
-    public String Service(){
+    public class Service(){
     }
-    
-    
 }

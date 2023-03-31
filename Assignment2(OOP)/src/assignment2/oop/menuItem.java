@@ -6,8 +6,11 @@ package assignment2.oop;
 
 /**
  *
- * @author user
+ * @author User
  */
 public class menuItem {
     
+    item items = new item();
+    merchandiseItem merchandise = new merchandiseItem();
+    serviceItem services = new serviceItem();
 }

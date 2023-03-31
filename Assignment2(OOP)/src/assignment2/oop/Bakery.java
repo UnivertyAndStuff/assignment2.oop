@@ -8,6 +8,6 @@ package assignment2.oop;
  *
  * @author User
  */
-public class merchandiseOrder {
+public class Bakery {
     
 }
